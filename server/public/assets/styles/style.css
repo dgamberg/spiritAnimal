@@ -1,0 +1,30 @@
+/*p{*/
+    /*display: inline-block;*/
+/*}*/
+.people{
+    float: left;
+    width: 30%;
+}
+.animal{
+    float: left;
+    width: 30%;
+}
+.data-box{
+    clear:both;
+}
+.header{
+    font-weight: bold;
+    float: left;
+    margin-right: 20%;
+}
+/*.data-box {*/
+    /*height: 16px;*/
+/*}*/
+
+/*.people-container {*/
+    /*float: left;*/
+/*}*/
+
+/*.animal-container {*/
+    /*float: right;*/
+/*}*/
